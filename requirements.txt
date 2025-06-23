@@ -1,0 +1,7 @@
+transformers
+streamlit
+fuzzywuzzy
+pandas
+PyTorch
+TensorFlow
+tf-keras
